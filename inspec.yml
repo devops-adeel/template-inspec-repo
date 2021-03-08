@@ -1,0 +1,10 @@
+name: template-inspec-repo
+title: InSpec Profile
+maintainer: Adeel Ahmad
+copyright: Adeel Ahmad
+copyright_email: 8452076+devops-adeel@users.noreply.github.com
+license: Apache-2.0
+summary: An InSpec Compliance Profile
+version: 0.1.0
+supports:
+  platform: os
